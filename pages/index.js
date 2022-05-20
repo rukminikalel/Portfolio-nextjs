@@ -22,8 +22,7 @@ export default function Home({ githubProfileData }) {
 					title: "Rukmini Kalel",
 					description:
 						"A passionate Full Stack Web Developer",
-					image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
-					url: "https://developer-portfolio-1hanzla100.vercel.app",
+					url: "https://rukmini-kalel-portfolio.netlify.app/",
 					keywords: [
 						"Rukmini Kalel",
 						"Portfolio",
