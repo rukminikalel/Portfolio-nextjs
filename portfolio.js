@@ -226,30 +226,37 @@ export const experience = [
 
 export const projects = [
 	{
-		name: "AtlasMart",
-		desc: "With Atlas Mart, it’s easy to find the products with the best price and ship them straight to your door.",
-		link: "https://atlasmart.netlify.app/",
+		name: "Kansas City’s Medicine Cabinet (Healthcare domain)",
+		desc: "Experience in working on SPFX components using ReactJS. Deployed SPFX components in MS Teams. Experience in working Rest API to communicate with SPFX components/SharePoint Online. I had direct interaction with the client on a daily basis.",
+	    TechStack: "React.js, TypeScript"
 	},
 	{
-		name: "Technota (Forum)",
-		desc: "Get hands-on experience in technical skills with Technota",
-		link: "https://technota.netlify.app/",
+		name: "Shopping Cart",
+		desc: "It’s a React.js app which displays the products in grid format and the user can increment/decrement the quantity of the selected products. On checkout page, it displays the products along with their quantities and calculates the price.",
+		TechStack: "React.js, TypeScript and Redux.",
+		github: "https://github.com/rukmini20/Shopping-Cart-Redux",
 	},
 	{
-		name: "Shopaza (Ecommerce)",
-		desc: "Now your reach to all your favorite entertainment and luxury items is just one touch apart",
-		link: "https://shopaza.herokuapp.com/",
+		name: "Orders Dashboard",
+		desc: "It displays the dashboard of the orders placed from a third party API. It also displays chart bar, pie chart and table dynamically from the API.",
+		TechStack: "React.js, TypeScript and Redux.",
+		github: "https://github.com/rukmini20/Dashboard-Charts-Table-React",
 	},
 	{
-		name: "MMFmelody (Blog)",
-		desc: "Here you will find amazing tips about health, beauty, and modern-day life.",
-		// github: "https://github.com/1hanzla100",
-		link: "https://mmfmelody.herokuapp.com/",
+		name: "Weather App",
+		desc: "The weather App provides a national and local weather forecast for cities.",
+		TechStack: "React.js, TypeScript and Redux.",
+		github: "https://github.com/rukmini20/Weather-App",
+	},
+	{
+		name: "Report Analytics",
+		desc: "Report Analytics in order to monitor how different computer configurations are performing .",
+		TechStack: "Angular.js,D3Js,Kafka,Web components,Stencil.js,ML.",
 	},
 	{
 		name: "Developer-Portfolio",
 		desc: "Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.",
-		github: "https://github.com/1hanzla100/developer-portfolio",
-		link: "https://developer-portfolio-1hanzla100.vercel.app/",
+		github: "https://github.com/rukmini20/Portfolio-nextjs",
+		link: "https://rukmini-kalel-portfolio.netlify.app/",
 	},
 ];
