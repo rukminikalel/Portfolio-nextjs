@@ -13724,7 +13724,7 @@ button.bg-darker:focus {
 }
 
 .text-left {
-	text-align: left !important;
+	text-align: center !important;
 }
 
 .text-right {

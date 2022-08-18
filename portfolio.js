@@ -60,12 +60,8 @@ export const skillsSection = {
 					fontAwesomeClassname: "vscode-icons:file-type-light-next",
 				},
 				{
-					skillName: "Python",
-					fontAwesomeClassname: "logos:python",
-				},
-				{
-					skillName: "Django",
-					fontAwesomeClassname: "vscode-icons:file-type-django",
+					skillName: "Nodejs",
+					fontAwesomeClassname: "logos:nodejs-icon",
 				},
 
 				{
@@ -137,49 +133,49 @@ export const skillsSection = {
 				},
 			],
 		},
-		{
-			title: "Blockchain",
-			lottieAnimationFile: "/lottie/skills/ethereum.json", // Path of Lottie Animation JSON File
-			skills: [
-				emoji(
-					"⚡ Experience in developing Smart Contract using Solidity & Ethereum"
-				),
-				emoji(
-					"⚡ Building Scripts for automated testing & deployment of Smart Contracts using Brownie & Infura"
-				),
-				emoji(
-					"⚡ Experience of using Openzeppelin Smart Contract Standards & Chainlink Oracles"
-				),
-				emoji(
-					"⚡ Developing NFT Smart Contracts using ERC-721 Token Standard"
-				),
-				emoji(
-					"⚡ Building Dapps with React.js & Solidity using Web3.js, Moralis & IPFS"
-				),
-			],
-			softwareSkills: [
-				{
-					skillName: "Ethereum",
-					fontAwesomeClassname: "logos:ethereum",
-				},
-				{
-					skillName: "Solidity",
-					fontAwesomeClassname: "logos:solidity",
-				},
-				{
-					skillName: "Web3js",
-					fontAwesomeClassname: "logos:web3js",
-				},
-				{
-					skillName: "Metamask",
-					fontAwesomeClassname: "logos:metamask-icon",
-				},
-				{
-					skillName: "Ganache",
-					fontAwesomeClassname: "logos:ganache-icon",
-				},
-			],
-		},
+		// {
+		// 	title: "Blockchain",
+		// 	lottieAnimationFile: "/lottie/skills/ethereum.json", // Path of Lottie Animation JSON File
+		// 	skills: [
+		// 		emoji(
+		// 			"⚡ Experience in developing Smart Contract using Solidity & Ethereum"
+		// 		),
+		// 		emoji(
+		// 			"⚡ Building Scripts for automated testing & deployment of Smart Contracts using Brownie & Infura"
+		// 		),
+		// 		emoji(
+		// 			"⚡ Experience of using Openzeppelin Smart Contract Standards & Chainlink Oracles"
+		// 		),
+		// 		emoji(
+		// 			"⚡ Developing NFT Smart Contracts using ERC-721 Token Standard"
+		// 		),
+		// 		emoji(
+		// 			"⚡ Building Dapps with React.js & Solidity using Web3.js, Moralis & IPFS"
+		// 		),
+		// 	],
+		// 	softwareSkills: [
+		// 		{
+		// 			skillName: "Ethereum",
+		// 			fontAwesomeClassname: "logos:ethereum",
+		// 		},
+		// 		{
+		// 			skillName: "Solidity",
+		// 			fontAwesomeClassname: "logos:solidity",
+		// 		},
+		// 		{
+		// 			skillName: "Web3js",
+		// 			fontAwesomeClassname: "logos:web3js",
+		// 		},
+		// 		{
+		// 			skillName: "Metamask",
+		// 			fontAwesomeClassname: "logos:metamask-icon",
+		// 		},
+		// 		{
+		// 			skillName: "Ganache",
+		// 			fontAwesomeClassname: "logos:ganache-icon",
+		// 		},
+		// 	],
+		// },
 	],
 };
 
@@ -203,7 +199,7 @@ export const educationInfo = [
 		schoolName: "Pune University",
 		subHeader: "Master of Computer Science(MCA)",
 		duration: "2015 - 2018",
-		desc: "Participated in the research of XXX and published 3 papers.",
+		//desc: "Participated in the research of XXX and published 3 papers.",
 	},
 ];
 
@@ -213,14 +209,14 @@ export const experience = [
 		company: "Invimatic Solutions",
 		companylogo: "/img/icons/common/Invimatic.jpg",
 		date: "Apr 2019 – Oct 2021",
-		desc: "I worked as Full stack Developer with tech stack ReactJs,Nodejs,Dotnet Core,mysql,Postgre.",
+		desc: "I worked as Full stack Developer with tech stack ReactJs,Nodejs,mysql.",
 	},
 	{
 		role: "Development Engineer",
 		company: "CalsoftInc Private Limited",
 		companylogo: "/img/icons/common/calsoft.png",
 		date: "Dec 2021 - Till now",
-		desc: "I am working as a development Engineer working on Frontend Angular and React,Kubernatives,Docker,D3Js,ML,Python.",
+		desc: "I am working as development Engineer with tech stack Frontend Angular.js and React.js,Kubernatives,D3Js,c#.",
 	},
 ];
 
